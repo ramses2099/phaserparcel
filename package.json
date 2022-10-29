@@ -1,0 +1,29 @@
+{
+  "name": "phaserparcel",
+  "version": "1.0.0",
+  "description": "Phaser JS with ParcelJS + Typescript- Setting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html --open",
+    "watch": "parcel watch index.html --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramses2099/phaserparcel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramses2099/phaserparcel/issues"
+  },
+  "homepage": "https://github.com/ramses2099/phaserparcel#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5",
+    "phaser": "^3.55.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
